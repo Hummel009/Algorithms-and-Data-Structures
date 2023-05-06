@@ -1,1 +1,3 @@
-My projects for the Belarusian State University of Informatics and Radioelectronics.
+Мои лабораторные работы для БГУИР (белорусский государственный университет информатики и радиоэлектроники).
+
+Предмет - АиСД (алгоритмы и структуры данных).
